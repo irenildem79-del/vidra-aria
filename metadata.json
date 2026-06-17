@@ -1,0 +1,6 @@
+{
+  "name": "Vidraçaria Coroatá",
+  "description": "Catálogo online de soluções em vidro temperado, espelhos, boxes de banheiro, janelas e fachadas residenciais e comerciais com orçamento integrado.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
